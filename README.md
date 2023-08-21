@@ -1,5 +1,8 @@
 # Pokémon Pokédex App 🌟
 
+
+![Header](/screenshots/header.png)
+
 The *Pokémon Pokédex App* is a mobile application that allows users to browse and explore information about different Pokémon species. The app provides detailed information about each Pokémon's type, abilities, stats, and evolution chain.
 
 ## Features ✨
