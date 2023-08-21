@@ -12,11 +12,13 @@ The *Pokémon Pokédex App* is a mobile application that allows users to browse 
 
 ## Screenshots 📸
 
-<img src="/screenshots/screen1.png" alt="Screen 1" width="200"/>
-<img src="/screenshots/screen2.png" alt="Screen 2" width="200"/>
-<img src="/screenshots/screen3.png" alt="Screen 3" width="200"/>
-<img src="/screenshots/screen4.png" alt="Screen 4" width="200"/>
-<img src="/screenshots/screen5.png" alt="Screen 5" width="200"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="/screenshots/screen1.png" alt="Screen 1" width="200"/>
+  <img src="/screenshots/screen2.png" alt="Screen 2" width="200"/>
+  <img src="/screenshots/screen3.png" alt="Screen 3" width="200"/>
+  <img src="/screenshots/screen4.png" alt="Screen 4" width="200"/>
+  <img src="/screenshots/screen5.png" alt="Screen 5" width="200"/>
+</div>
 
 ## Getting Started 🚀
 
