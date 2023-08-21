@@ -57,6 +57,6 @@ If you encounter any bugs or have suggestions for new features, feel free to [cr
 
 ## Authors 📝
 
-This project was developed by [Daniel Varela](https://github.com/yourusername).
+This project was developed by [Daniel Varela](https://github.com/danivs10).
 
 For inquiries, contact me at `dvarelasanchez@gmail.com`.
