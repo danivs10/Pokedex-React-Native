@@ -17,6 +17,8 @@ The *Pokémon Pokédex App* is a mobile application that allows users to browse 
 ![Screen 1](/screenshots/screen1.png)
 ![Screen 2](/screenshots/screen2.png)
 ![Screen 3](/screenshots/screen3.png)
+![Screen 3](/screenshots/screen4.png)
+![Screen 3](/screenshots/screen5.png)
 
 ## Getting Started 🚀
 
